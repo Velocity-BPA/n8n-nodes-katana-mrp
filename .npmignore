@@ -1,0 +1,31 @@
+# Source files
+*.ts
+!*.d.ts
+tsconfig.json
+
+# Config files
+.eslintrc.js
+.prettierrc
+.gitignore
+
+# Development
+test/
+scripts/
+coverage/
+.nyc_output/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (keep README)
+COMMERCIAL_LICENSE.md
+LICENSING_FAQ.md
+
+# Misc
+*.log
+*.tgz
